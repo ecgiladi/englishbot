@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: english-bot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: gunicorn bot:app

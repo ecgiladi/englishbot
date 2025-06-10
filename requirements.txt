@@ -1,0 +1,4 @@
+Flask==2.3.3
+twilio==8.10.0
+deep-translator==1.11.4
+gunicorn==21.2.0
